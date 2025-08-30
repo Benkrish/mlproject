@@ -1,0 +1,1 @@
+# packages=find_packages() whenevr this will run this will see how many folder u have __init__.py , it will trat as a package
